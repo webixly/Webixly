@@ -39,6 +39,16 @@
 ![Netcat](https://img.shields.io/badge/Netcat-003366?logo=gnu&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-990000?logo=linux&logoColor=white)
 
+## 🛡️ Cybersecurity Skills
+
+![Red Teaming](https://img.shields.io/badge/Red_Teaming-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-FF0000?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=protonvpn&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-1E90FF?style=for-the-badge&logo=cisco&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web_Security-228B22?style=for-the-badge&logo=wordpress&logoColor=white)
+![CTF Player](https://img.shields.io/badge/CTF_Player-FFD700?style=for-the-badge&logo=tryhackme&logoColor=black)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-FF4500?style=for-the-badge&logo=bugcrowd&logoColor=white)
+
 ---
 
 ## 📈 GitHub Stats
