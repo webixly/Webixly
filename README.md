@@ -20,7 +20,7 @@
 
 ## 📫 How to reach me
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)  
+- LinkedIn: [linkedin.com/in/yourprofile]()  
  
 ---
 ⭐️ From [Webixly](https://github.com/webixly)
