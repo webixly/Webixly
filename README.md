@@ -47,7 +47,7 @@
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-webiixly%40gmail.com-red?logo=gmail&logoColor=white)](mailto:webiixly@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Website](https://img.shields.io/badge/Portfolio-webixly.com-lightgrey?logo=netlify)](https://webixly.com)
+
 
 ---
 
