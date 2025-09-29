@@ -1,10 +1,12 @@
 # Hi there 👋 I'm Pablo (Webixly)
 
 ## 🚀 About Me
-- 🌐 Web Developer specialized in **WordPress & Shopify**
-- 🛡️ Cybersecurity enthusiast (**Red Team • Pentesting • Network Security**)
-- 💻 Passionate about building secure, modern, and responsive web applications
-- 🐍 Coding with multiple languages and exploring new tools daily
+
+- 💻 **Web Development**: WordPress & Shopify customizations, responsive design, and performance optimization.  
+- 🛡️ **Cybersecurity (Red Team)**: Vulnerability assessment, exploitation, and post-exploitation tactics.  
+- 🌐 **Network & Systems**: Hands-on with Linux, Windows servers, and advanced networking protocols.  
+- ⚡ **Pentesting**: Skilled in using tools like Nmap, Metasploit, Burp Suite, and Wireshark for ethical hacking.  
+- 🧩 **Problem Solving**: tackling CTF challenges and real-world security scenarios.  
 
 ---
 
