@@ -135,7 +135,7 @@ class SecurityFocusedDeveloper:
         return "Identifying and mitigating vulnerabilities proactively"
 
 professional = SecurityFocusedDeveloper()
-```
+
 <div align="center">
 ⭐ Explore my GitHub Portfolio for cutting-edge projects and security research!
 
