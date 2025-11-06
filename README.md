@@ -7,8 +7,11 @@
 ## 🚀 About Me
 
 🔹 Passionate about building secure, fast, and elegant web experiences.
+
 🔹 Balancing creativity in **Web Development** with precision in **Cybersecurity**.
+
 🔹 Skilled in **WordPress & Shopify customization**, **vulnerability analysis**, and **real-world pentesting**.
+
 🔹 Always exploring **new exploits**, **CTF challenges**, and **Linux systems**.
 
 ---
