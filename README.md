@@ -76,7 +76,7 @@
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-webiixly%40gmail.com-red?logo=gmail\&logoColor=white)](mailto:webiixly@gmail.com)
+[![Email](https://img.shields.io/badge/Email-webiixly%40gmail.com-red?logo=gmail\&logoColor=white)](mailto:aymenmoh20000@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-p4bl0.py-7289DA?logo=discord)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Webixly-0A66C2?logo=linkedin\&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-webixly-181717?logo=github)](https://github.com/webixly)
