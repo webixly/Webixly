@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Pablo** (aka [Webixly](https://github.com/webixly))
+#  Hi, I'm **Pablo** ([Webixly](https://github.com/webixly))
 
 > 💻 *Web Developer | 🛡️ Ethical Hacker | ⚙️ Red Team & Pentester*
 
