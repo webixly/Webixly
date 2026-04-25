@@ -1,3 +1,4 @@
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Webixly&left_color=coral&right_color=dimgray"  />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Pablo%20(Webixly)&fontSize=42&fontAlignY=35&desc=System%20Administration%20·%20Network%20Infrastructure%20·%20Linux&descAlignY=60&color=0:0f0f0f,100:1a1a1a&fontColor=ffffff"/>
 </p>
@@ -9,7 +10,7 @@
 </p>
 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Webixly&left_color=coral&right_color=dimgray"  />
+
 
 ---
 
