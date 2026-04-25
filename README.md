@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Pablo%20(Webixly)&fontSize=42&fontAlignY=35&desc=System%20Administration%20·%20Network%20Infrastructure%20·%20Linux&descAlignY=60&color=0:0f0f0f,100:1a1a1a&fontColor=ffffff"/>
 </p>
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Webixly&left_color=coral&right_color=dimgray"  />
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Linux+%7C+Networking+%7C+Infrastructure;Docker+%7C+Automation+%7C+Security+Fundamentals;Building+Reliable+Systems"/>
 </p>
