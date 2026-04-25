@@ -4,18 +4,12 @@
 
 
 
-
-
-
-
-
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Webixly&left_color=coral&right_color=dimgray"  />
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Linux+%7C+Networking+%7C+Infrastructure;Docker+%7C+Automation+%7C+Security+Fundamentals;Building+Reliable+Systems"/>
 </p>
+
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Webixly&left_color=coral&right_color=dimgray"  />
 
 ---
 
